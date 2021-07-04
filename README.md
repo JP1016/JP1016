@@ -4,13 +4,21 @@
 
 Some  of my projects
 - 🗂 CodeKeep https://codekeep.io - Organize,Discover and Share Snippets
+<br/>
+<a href="https://www.producthunt.com/posts/codekeep?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-codekeep" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=281185&theme=light&period=daily" alt="CodeKeep - Organize, discover & share code snippets | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a><br/>
+<a href="https://www.remote.tools/product/codekeep"> Top #2 on Remote Tools </a><br/>
+<a href="https://blog.efounders.co/the-opportunities-of-remote-work-1de2b761b492"> Featured on Key Players in remote work. </a><br/>
+<br/><br/>
 - 🔖 Twimark https://twimark.io - Bookmark Tweets and convert threads into articles
+
 
 OpenSource Contributions
 - Fixed Bulk Insert for NVARCHAR(MAX) Fields (Official NodeJS MSSQL Library).  https://github.com/tediousjs/node-mssql/pull/901
 - Fixed Socket Disconnection issue on AWS Chime SDK Demo Repo https://github.com/aws-samples/amazon-chime-sdk-classroom-demo/pull/12
 - Made a Markdown Editor for easier creation of markdown files for repos with some predefined snippets, Created electron version for the same,Got Featured on Softpedia.
 - Made Paper , PWA based angular app for sharing notes between phone and my laptop.
+<br/>
+<a href="https://www.producthunt.com/posts/paper-6?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-paper-6" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=168625&theme=light&period=daily" alt="Paper - 🚀 An offline note taking app with "networkless" sharing | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 Portfolio
 https://jithin.jp1016.now.sh/
